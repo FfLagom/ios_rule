@@ -7,5 +7,5 @@
 # DOMAIN-SUFFIX: 
 # PROCESS-NAME: 
 # TOTAL: 
-HOST,c.emby.wtf
-HOST,nano.cr18.eu.org
+HOST,c.emby.wtf,zdz
+HOST,nano.cr18.eu.org,jms
